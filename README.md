@@ -1,4 +1,6 @@
-# CSE508-HW2
+# Network Security Project: CSE508-HW2
+
+# Description
 In this assignment you will develop a passive network monitoring application
 written in Go using the GoPacket library. Your program, called 'mydump', will
 capture the traffic from a network interface in promiscuous mode (or read the
